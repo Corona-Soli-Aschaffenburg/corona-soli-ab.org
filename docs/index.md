@@ -1,5 +1,7 @@
 # Corona-Solidarität Aschaffenburg
 
+<Map />
+
 Liebe Nachbarschaft,
 
 aufgrund der derzeitigen Situation des **Coronavirus SARS-CoV-2** möchten wir uns als Nachbarschaft gegenseitig helfen, damit niemand alleine ist. Wir wollen uns gegenseitig helfen bei Einkäufen, mit dem Hund gehen, Kinderbetreuung, Austausch/Ausleihen von Alltagsgegenständen, usw.
