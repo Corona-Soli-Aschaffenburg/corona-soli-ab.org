@@ -33,10 +33,12 @@ Diese Dokumente wurden erstellt von [Corona Soli FFM](https://www.corona-soli-ff
 
 ## Linksammlung ##
 
-- Der bayerische Rundfunk informiert:  [Diese Regeln gelten ab sofort in Bayern](https://www.br.de/nachrichten/bayern/katastrophenfall-in-bayern-diese-regeln-gelten-ab-sofort,RtNxMZq)
+- Das Staatsministerium für Inneres informiert:  [Diese Regeln gelten für die Ausgangsbeschränkungen in Bayern](https://www.stmi.bayern.de/miniwebs/coronavirus/faq/index.php)
+- Die Stadt Aschffenburg stellt hier alle wichtigen [Kontaktadressen und aktuelle Informationen](https://www.aschaffenburg.de/Aktuelles/Coronavirus/DE_index_5409.html) bereit.
 - Fragen und Antworten zum Coronavirus: [Wichtige Infos auf Infektionsschutz.de](https://www.infektionsschutz.de/coronavirus-sars-cov-2.html)
 - Haltet Abstand von älteren Menschen und klärt sie über ihre Gefährdung auf: [Das Robert Koch Institut zu Risikogruppen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogruppen.html)
 - Gestaltet eure eigenen Aushänge: [Gegen-den-Virus](https://gegen-den-virus.de/).de
+- Die Facebook-Gruppe [Corona-Hilfe Aschaffenburg](https://www.facebook.com/groups/2948802948492097/) bietet auch eine Plattform zum Austausch und für Hilfsangebote.
 - Täglich hilft der Virus-Experte die aktuelle Lage zu verstehen: [Das Coronavirus-Update mit Christian Drosten](https://www.ndr.de/nachrichten/info/podcast4684.html)
 - Corona-Fakten kurz und knapp: [Plakat mit den wichtigsten Infos und Verhaltensregeln](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/C/Coronavirus/BMG_BZgA_Coronavirus_Plakat_barr.pdf)
 - Spendet Blut und rettet Leben: [Blutspende-Termine in Aschaffenburg und Umgebung](https://www.drk-blutspende.de/blutspendetermine/termine?utf8=%E2%9C%93&term=63739&radius=15&county_id=&date_from=&date_to=&last_donation=&button=)
