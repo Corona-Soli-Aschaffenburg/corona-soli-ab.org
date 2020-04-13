@@ -14,7 +14,7 @@ eine Situation wie die aktuelle rund um das **Coronavirus SARS-CoV-2** haben wir
 
 So kann jede*r Hilfe anbieten und erhalten.
 
-Bei ernstem Verdacht auf **Coronavirus SARS-CoV-2** bitte die **116117** wählen und bei schweren medizinischen Notfällen die **112 (Nur im Notfall!)**.
+Bei ernstestem Verdacht auf **Coronavirus SARS-CoV-2** bitte die **116117** wählen und bei schweren medizinischen Notfällen die **112 (Nur im Notfall!)**.
 
 ## Per WhatsApp Hilfe anbieten & erhalten ##
 
